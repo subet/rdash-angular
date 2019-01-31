@@ -35,3 +35,6 @@ If you'd like to include any additional modules/packages not included with rdash
 * [Leonel Samayoa](https://github.com/lsamayoa)
 * [Mathew Goldsborough](https://github.com/mgoldsborough)
 * [Ricardo Pascua Jr](https://github.com/rdpascua)
+
+## By Subet
+You can find this theme and similar bootstrap admin themes on: https://usebootstrap.com/themes/admin-dashboard
